@@ -115,7 +115,6 @@ Result example:
 
 ### Medallion architecture pipeline:
 
-Don’t forget to use the [Pipeline schema](https://www.notion.so/Databricks-97253bb3bdad400596324a138e7c11ad?pvs=21) above:
 
 1. job_postings_bronze:
 - Read job_postings.csv
